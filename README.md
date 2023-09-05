@@ -5,7 +5,7 @@ Hi everyone,
 This is is simple project design using C++.
 This is a project that create for accedemic assignment
 
-Without wasting your time, let's see what react js actually is...
+Without wasting your time, let's see the project.
 
 c++ is Programing Language. you can follow steps in the bellow to run this simple project
 
