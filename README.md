@@ -22,3 +22,8 @@ Setups
 
 ## Technologies
 C++.
+
+## Screenshots
+![1](https://github.com/Sumedha9717/Covid-19_Qurantine_zone_management_system/assets/137753353/1ee2e474-9489-42ba-8287-fbf5890c72e9)
+![2](https://github.com/Sumedha9717/Covid-19_Qurantine_zone_management_system/assets/137753353/fdea9c65-1422-4c36-ad58-ad14945d2387)
+![3](https://github.com/Sumedha9717/Covid-19_Qurantine_zone_management_system/assets/137753353/c51e1cbb-e44f-4c8d-8c66-32844c6b3b8b)
